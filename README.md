@@ -45,7 +45,7 @@ Fetches the captions of the video as XML.
 
 ## Known Issues
 
-You may need to access the following url: https://cors-anywhere.herokuapp.com/ and request access to use this library. The reason is while testing from localhost, you may stumble upon the following error: <mark> 'http://localhost:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. </mark>. To fix this, access the aforementioned url and request for access, which is typically granted instantly. 
+You may need to access the following url: https://cors-anywhere.herokuapp.com/ and request access to use this library. The reason is while testing from localhost, you may stumble upon the following error: <mark> 'http://localhost:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. </mark> To fix this, access the aforementioned url and request for access, which is typically granted instantly. 
 
 
 ## License
