@@ -13,7 +13,7 @@ npm i youtube-captions-as-xml
 ## Usage
 
 ```javascript
-import YoutubeCaptionsDownloader from 'youtube-captions-downloader';
+import YoutubeCaptionsDownloader from 'youtube-captions-as-xml';
 
 const youtubeCaptions = new YoutubeCaptionsDownloader();
 
