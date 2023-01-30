@@ -7,7 +7,7 @@ A library for downloading captions from YouTube videos.
 To use this library in your project, run the following command:
 
 ```bash
-npm install youtube-captions-downloader
+npm i youtube-captions-as-xml
 ```
 
 ## Usage
