@@ -1,6 +1,6 @@
 {
   "name": "youtube-captions-as-xml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library for downloading captions from YouTube videos.",
   "main": "src/index.js",
   "scripts": {
